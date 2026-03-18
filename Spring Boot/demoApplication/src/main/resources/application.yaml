@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demoApplication
+#debug: true
+greeter:
+  prefix: Heyo

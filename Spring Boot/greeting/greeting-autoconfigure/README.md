@@ -1,0 +1,1 @@
+This is the module that is used to autoconfigure beans.
