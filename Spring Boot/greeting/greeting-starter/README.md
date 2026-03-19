@@ -1,0 +1,1 @@
+This is a dependency, that can easily added to the spring project and that can pull the autoconfiguration and all the needed dependencies 
